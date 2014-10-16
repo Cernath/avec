@@ -1,0 +1,32 @@
+#sub-menu-1
+{
+background: url(../image/header1v2.png);
+}
+#sub-menu-2
+{
+background: url(../image/header2v2.png);
+}
+#sub-menu-3
+{
+background: url(../image/header3v2.png);
+}
+#sub-menu-4
+{
+background: url(../image/header4v2.png);
+}
+.menu-header{width:100%;height:134px;margin-bottom: 50px;}
+.image-header{}
+.image-header-p1{float:left;width: 15%;padding-top:3%;}
+.image-header-p3{float:right;width: 7%; }
+.catchprhase{float:left;color:white;margin:4% 0% 0% 4%;}
+#menu-1{background:white;}
+#menu-2{background:#3d444e;}
+#menu-3{background:white;}
+#menu-4{background:#d0cbb7;}
+.icone{
+width:150px;
+height:150px;
+background:#eee;
+color:#333;
+border-radius:75px;}
+.container{height:400px;}
